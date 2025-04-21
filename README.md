@@ -6,7 +6,7 @@ Built with ❤️ using HTML, CSS, JavaScript.
 
 ## 🌐 Live Demo
 
-[View Portfolio](https://your-portfolio-link.com)
+[View Portfolio](https://sowmiyar27.github.io/my-portfolio/)
 
 ## 🛠️ Tech Stack
 
