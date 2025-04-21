@@ -14,6 +14,7 @@ Built with ❤️ using HTML, CSS, JavaScript.
 - CSS3 
 - JavaScript  
 - Git & GitHub
+- VS Code
 
 ## 📸 Features
 
