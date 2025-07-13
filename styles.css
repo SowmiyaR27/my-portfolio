@@ -204,7 +204,7 @@ nav ul li a:hover {
 .projects-container {
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: stretch;
 	gap: 30px;
 }
 
